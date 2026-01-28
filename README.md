@@ -65,6 +65,6 @@ O ambiente de produção foi configurado focando em segurança de rede e perform
 
 ## Autores
 
-Projeto desenvolvido em equipe.
+Projeto desenvolvido em equipe
 
 * **Post no linkedin para mais detalhes e integrantes** - [LinkedIn](https://www.linkedin.com/in/n%C3%ADcolas-ruzza-334a3826a/details/projects/)
