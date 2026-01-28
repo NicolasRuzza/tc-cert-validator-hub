@@ -4,6 +4,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 > **Resumo:** Projeto desenvolvido em equipe visando a modernização e segurança do fluxo de entrega de certificados de qualidade industrial. O sistema substituiu processos manuais por uma solução automatizada integrada ao ecossistema Microsoft, garantindo integridade de dados e eficiência operacional.
 
